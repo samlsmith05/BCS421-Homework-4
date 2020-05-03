@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BCS421Homework4</string>
+
+    <string name="meal">Meal</string>
+    <string name="drink">Drink</string>
+    <string name="chooseMeal">CHOOSE MEAL</string>
+    <string name="chooseDrink">CHOOSE DRINK</string>
+
+    <string name="chooseDrinkTitle">Choose Drink</string>
+    <string name="soda">Soda</string>
+    <string name="water">Water</string>
+    <string name="saveDrink">SAVE DRINK</string>
+
+    <string name="chooseMealTitle">Choose Meal</string>
+</resources>
